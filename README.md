@@ -11,6 +11,6 @@ I publish small WordPress tools that solve problems I see in real projects. Each
 ## Work and contact
 
 - [DevPulse360 portfolio](https://devpulse360.com/)
-- [LinkedIn](https://www.linkedin.com/in/saif-ur-rehman877/)
+- [LinkedIn](https://www.linkedin.com/in/saifwp)
 
 I am open to WordPress projects and useful code collaborations.
